@@ -1,12 +1,12 @@
-## 我是鱼皮 🐟
+## Hi，我是无敌波
 
-- 🐧 腾讯全栈开发攻城狮
-- 🏡 作品：<a href="https://www.code-nav.cn" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/code-nav" target="_blank">求星星 ✨</a>
-- 🌱 热爱分享 <a href="" target="_blank">公众号『 程序员鱼皮 』</a>
-- 😺 趣讲技术：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
-- 💬 微信：liyupi66
-- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">@程序员鱼皮</a>
-- 👬 QQ 千人编程交流群：818860952 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="和鱼皮一起学编程的朋友们" title="和鱼皮一起学编程的朋友们"></a>
+- 🐧 金融行业全栈开发攻城狮
+- 🏡 作品：<a href="http://ok-admin.xlbweb.cn" target="_blank">ok-admin</a> | <a href="https://gitee.com/wudibo/ok-admin" target="_blank">求星星 ✨</a>
+- 🌱 热爱分享 <a href="" target="_blank">公众号『 我是波波 』</a>
+- 😺 趣讲技术：<a href="https://space.bilibili.com/xxxxxx" target="_blank">B站 程序员波波</a> | 抖音 super-wudibo
+- 💬 微信：super-wudibo
+- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/wudibo" target="_blank">@程序员波波</a>
+- 👬 QQ 编程交流群：956184623 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="ok-admin学习交流群⑤" title="ok-admin学习交流群⑤"></a>
 
 ## 新年汇总 ✨
 
