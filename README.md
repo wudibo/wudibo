@@ -2,7 +2,7 @@
 
 - 🐧 金融行业全栈开发攻城狮
 - 🏡 作品：<a href="http://ok-admin.xlbweb.cn" target="_blank">ok-admin</a> | <a href="https://gitee.com/wudibo/ok-admin" target="_blank">求星星 ✨</a>
-- 🌱 热爱分享 <a href="" target="_blank">公众号『 无敌波 』</a>
+- 🌱 热爱分享 <a href="https://github.com/wudibo/wudibo/blob/main/wxgzh_qrcode.jpg" target="_blank">公众号『 无敌波 』</a>
 - 😺 趣讲技术：<a href="https://space.bilibili.com/487992065" target="_blank">B站 肚脐眼笑得青痛</a> | 抖音 super-wudibo
 - 💬 微信：super-wudibo
 - 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/mrx_zh" target="_blank">@无敌波</a>
